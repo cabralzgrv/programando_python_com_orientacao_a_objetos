@@ -1,0 +1,9 @@
+uva
+banana
+melancia
+maça
+abacaxi
+manga
+pera
+amora
+morango
